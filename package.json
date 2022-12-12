@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --exit-child src/server.ts",
+    "build": "tsc && vite build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
