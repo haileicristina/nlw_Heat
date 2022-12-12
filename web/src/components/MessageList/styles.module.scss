@@ -4,7 +4,7 @@
     justify-content: space-between;
     align-items: flex-start;
 
-    >img{
+    > img{
         height: 28px;
         margin: 32px 0;
     }
@@ -14,14 +14,15 @@
     list-style: none;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     gap: 40px;
     flex:1;
-    justify-content: center;
+   
 
     .message{
         max-width: 440px;
 
-        &:nth-child(2){
+        &:nth-child(2) {
             margin-left: 80px;
         }
 

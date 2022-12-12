@@ -18,6 +18,7 @@
 
     position: absolute;
     left: 24px;
+    top: 24px;
 
     cursor: pointer;
     &:hover{
@@ -29,16 +30,16 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
+  
     .userImage{
         padding: 3px;
         background:linear-gradient(100deg, #ff008e 0%, #ffcd1e 100%);
         border-radius: 50%;  
         line-height: 0;              
 
-        img{
-            width: 94x;
-            height: 94x;
+        img {
+            width: 94px;
+            height: 94px;           
             border-radius: 50%;
             border: 6px solid #121214;
         }
@@ -49,14 +50,15 @@
         line-height: 30px;
         margin-top: 16px;
     }
+
     .userGithub{
         display: flex;
         align-items: center;
-
+        
         margin-top: 8px;
         color: #c4c4cc;
 
-        img{
+        svg{
             margin-right: 8px;
         }
     }
@@ -110,7 +112,7 @@
         text-transform: uppercase;
         text-decoration: none;
 
-        display:flex;
+        display: flex;
         align-items: center;
         justify-content: center;
 
