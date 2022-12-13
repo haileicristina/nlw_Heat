@@ -1,6 +1,6 @@
 # nlw_Heat
 
-![DoWhile2021](src/web/assets/nlw_heat.png)
+![DoWhile2021](web/src/assets/nlw_heat.png)
 
 ![Badge Dependência Node JS e Express](http://img.shields.io/static/v1?label=STATUS&message=EM%20NODEJS_EXPRESS&color=ff69b4&style=flat-square)
 
@@ -63,4 +63,4 @@
 
 ## 📁 Acesso ao projeto
  
- 
+ Acesse o projeto [aqui](https://nlw-heat-blue.vercel.app/)
