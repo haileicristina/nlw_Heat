@@ -1,5 +1,7 @@
 # nlw_Heat
-![DoWhile2021](src/assets/nlw_heat.png)
+
+![DoWhile2021](src/web/assets/nlw_heat.png)
+
 ![Badge Dependência Node JS e Express](http://img.shields.io/static/v1?label=STATUS&message=EM%20NODEJS_EXPRESS&color=ff69b4&style=flat-square)
 
 ![Badge Dependência AXIOS](http://img.shields.io/static/v1?label=DEPENDÊNCIAS&message=EM%20AXIOS&color=LIGHTGREY&style=flat-square)
